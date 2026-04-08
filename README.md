@@ -9,7 +9,7 @@ I build data products that turn raw data into business decisions.
 
 ## Featured Projects
 
-### 1. E-commerce Sales Dashboard (Olist)
+### E-commerce Sales Dashboard (Olist)
 - End-to-end Power BI dashboard covering executive performance, operations & delivery, customer segmentation, and product/category trends  
 - Identified key drivers of revenue, operational bottlenecks, and high-value customer segments
 
